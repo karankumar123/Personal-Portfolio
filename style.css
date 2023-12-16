@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.bg-black{
+    background-color: black;
+}
+.font-div{
+    width: 30%;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+#btn{
+    color: white;
+    text-decoration: none;
+}
+.btn-color
+{
+    background-color: blue;
+    font-size:20px;
+    border: none;
+    border-radius: 6px;
+    outline: none;
+  
+    
+}
+.size{
+    font-size: 30px;
+}
+
+
+
+
+.purple{
+    color: rgb(170,107,228); 
+    font-size: 1.5rem;
+    font-family: sans-serif;
+}
+.font-color{
+    font-size: 1.5rem;
+    font-family: sans-serif;
+}
+#element{
+    color: rgb(74, 229, 22);  
+}
+#mail{
+    color: red;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+body{
+    background-color: #ecf0f1;
+}
+   @media only screen and (min-width:1198px){
+
+    .font-div{
+        padding: 45px 0px!important;
+    }
+
+   }
+
+   @media only screen and (max-width: 768px) {
+    .mobile a{
+       width: 100%;
+    }
+  }
+
+      
+
+   
+
